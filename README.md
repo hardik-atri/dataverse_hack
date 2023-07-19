@@ -22,8 +22,8 @@ This repository contains the code and data for the Insurance Claim Prediction pr
    - Checked the shape of the dataset (60,000 data points) and examined the data types of different features.
    - Looked for missing values and duplicate values, but none were found in the dataset.
    - Performed univariate analysis and examined the distribution of various features.
-              *    Identified that some continuous features are categorized incorrectly, such as gear_box and number of cylinders.
-              *    Detected outliers in some of the continuous features.
+               * Identified that some continuous features are categorized incorrectly, such as gear_box and number of cylinders.
+               * Detected outliers in some of the continuous features.
    - Conducted bivariate analysis by plotting the distribution of various features against the target classes.
    - Identified class imbalance in the dataset.
 
