@@ -9,7 +9,7 @@ Now the company would like to use Data Science to identify the policyholders who
 
 # Insurance Claim Prediction Project
 
-This repository contains the code and data for the Insurance Claim Prediction project. The goal of this project is to predict insurance claim outcomes using machine learning algorithms. The dataset used in this project contains 60,000 data points.
+This repository contains the code and data for the Insurance Claim Prediction project. The goal of this project is to predict insurance claim outcomes using machine learning algorithms. The dataset used in this project contains 60,000 data points and 44 features.
 
 ## Steps Performed in the Project
 
